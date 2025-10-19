@@ -1,4 +1,4 @@
- Situation:
+Situation:
 As part of my continuous learning journey in Cloud and DevOps, I wanted to get practical experience with container orchestration and Kubernetes on AWS. I decided to deploy the classic 2048 game as a real-time project using Amazon Elastic Kubernetes Service (EKS).
 
 Task:
