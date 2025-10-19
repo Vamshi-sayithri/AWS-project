@@ -2,7 +2,7 @@ Situation:
 As part of my continuous learning journey in Cloud and DevOps, I wanted to get practical experience with container orchestration and Kubernetes on AWS. I decided to deploy the classic 2048 game as a real-time project using Amazon Elastic Kubernetes Service (EKS).
 
 Task:
-My goal was to *containerize the 2048 application, create a **scalable Kubernetes cluster* on AWS, and ensure smooth deployment and accessibility through a public endpoint — just like a real-world production setup.
+My goal was to Deploy the 2048 application, created a scalable Kubernetes cluster on AWS, and ensure smooth deployment and accessibility through a public endpoint — just like a real-world production setup.
 
 Action:
 * Created a Kubernetes cluster with Amazon EKS.
