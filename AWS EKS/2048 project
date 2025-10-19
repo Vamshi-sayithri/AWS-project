@@ -5,7 +5,7 @@ Task:
 My goal was to Deploy the 2048 application, created a scalable Kubernetes cluster on AWS, and ensure smooth deployment and accessibility through a public endpoint — just like a real-world production setup.
 
 Action:
-* Created a Kubernetes cluster with Amazon EKS.
+* Created a Kubernetes cluster with Amazon EKS and configured and installed neccessary requirements.
 * Configured Deployments, Pods, and Services to manage the application lifecycle.
 * Used AWS IAM roles for secure access and kubectl for cluster management.
 * Implemented auto-scaling and load balancing for better performance and reliability.
